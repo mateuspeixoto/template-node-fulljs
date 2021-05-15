@@ -1,5 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Recursive&display=swap");
 * {
-  margin: 0;
-  padding: 0; }
+  margin: 10px;
+  padding: 5px;
+  background-color:#1b7585;
+  color: #fff;
+  font-family: "Recurcive", sans-serif;
+}
+
+.img-logo {
+  padding: 0 600px;
+}
+.img-logo img {
+  width: 300px;
+  height: auto;
+}
 
 /*# sourceMappingURL=style.css.map */
